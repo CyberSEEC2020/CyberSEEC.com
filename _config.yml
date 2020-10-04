@@ -4,7 +4,7 @@ logo: "https://raw.githubusercontent.com/CyberSEEC/test/main/assets/img/CyberSEE
 description: "CyberSEEC will be a great event. Get excited!" #Required. short description of the event. this is used in the preview when the link is shared.
 externalLink: "https://www.cooperative.com/conferences-education/web-based-learning/2020-cyberseec/Pages/default.aspx" #Required. link to the main event page. this could be a webpage, a event, an eventbrite page, where ever the main webpage is for your event
 url: "CyberSEEC.com" #(Optional) the full URL for this countdown page. This is neccesary for share previews
-facebookEventLink: "https://www.cooperative.com/my-account/pages/public-registration.aspx?eventkey=e419f040-208f-4bbe-946c-68074212d1a5" #(Optional) if you have an event, put the link here and we'll add a "RSVP on ___" link at the bottom.
+facebookEventLink: #(Optional) if you have an event, put the link here and we'll add a "RSVP on ___" link at the bottom.
 hashtag: "" #(Optional) hashtag for the event, example "#hashtag". must be in quotes.
 colors: #(Optional)
   background: "#FFF" #color of the background of the page
